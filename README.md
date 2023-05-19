@@ -18,8 +18,24 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
+```
+'''
+program to count the words in a file
+reg number :212222110056
+developed b : yuva krishna k
+'''
+fname=input("enter the file name ")
+num_words=0
+with open(fname,'r') as f:
+  for line in f:
+    words=line.split()
+    num_words+=len(words)
+print('number of words:',num_words)
+```
 
 ### OUTPUT:
+![uvaop](https://github.com/Yuvakrishna0/Word-count/assets/117915037/a81d95ed-111e-4e01-8b86-16c54deffb8e)
+
 
 
 
