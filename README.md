@@ -6,16 +6,15 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-Assign
+create a text file
 ### Step 2: 
- 
+open the file in read mode
 ### Step 3: 
-
+use for loop for counting the number of words
 ### Step 4:  
-
+store the value
 ### Step 5: 
-
-### Step 6: 
+print the value
 
 ## PROGRAM:
 ```
